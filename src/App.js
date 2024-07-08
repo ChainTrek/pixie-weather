@@ -1,7 +1,7 @@
 function App() {
 	return (
 		<div className='App'>
-			<h1>Pixie Weather</h1>
+			<h1 className='animate__animated animate__bounce'>Pixie Weather</h1>
 		</div>
 	)
 }
